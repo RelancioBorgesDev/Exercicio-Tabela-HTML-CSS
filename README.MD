@@ -2,10 +2,10 @@
 
 ***LINK DO EXC : **https://ifpb.github.io/css-exercises/css/table-css/*****
 
-#Objetivo
+# Objetivo
 - O objetivo desta atividade consiste em abordar os seguintes temas:
 
-#Criar e estilizar tabelas
+# Criar e estilizar tabelas
 - Centralizar tabela
 - Aplicando plano de fundo em tabelas
 - Colapsando tabela
